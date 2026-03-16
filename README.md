@@ -11,7 +11,9 @@
 </div>
 
 ###
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&size=24&center=true&vCenter=true&width=700&lines=Initializing+profile...;Access+granted.;Exploit+the+code.+Secure+the+system.;Welcome+to+my+GitHub." />
+</p>
 <h1 align="center">👨‍💻Breno Roque</h1>
 
 ###
