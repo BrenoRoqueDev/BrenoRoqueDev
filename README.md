@@ -16,7 +16,7 @@
 
 <br clear="both">
 
-<div align="right">
+<div align="left">
   <img height="170" src="https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif"  />
 </div>
 
