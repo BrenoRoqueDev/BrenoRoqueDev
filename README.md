@@ -20,17 +20,17 @@
 
 ###
 
-<h4 align="left">👾 About Me</h4>
+<h3 align="left">👾 About Me</h3>
 
 ###
 
-<p align="left">🎓 Studying Cybersecurity<br>🐍 Learning Python & Bash scripting<br>🔍 Interested in Pentesting, SOC, and Threat Analysis<br>⚡ Turning curiosity into real-world skills</p>
+<h5 align="left">🎓 Studying Cybersecurity<br>🐍 Learning Python & Bash scripting<br>🔍 Interested in Pentesting, SOC, and Threat Analysis<br>⚡ Turning curiosity into real-world skills</h5>
 
 ###
 
 <br clear="both">
 
-<h4 align="left">🛠️ Technologies & Tools</h4>
+<h3 align="left">🛠️ Technologies & Tools</h3>
 
 ###
 
@@ -57,12 +57,12 @@
 <br clear="both">
 
 <div align="center">
-  <img height="227" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cjFxNjVzeTVyOG5vc29hc3hqaThuc2VyeHRpcmE1cWVwc2JraGtudyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VX7yEoXAFf8as/giphy.gif"  />
+  <img height="234" src="https://i.pinimg.com/originals/17/5a/98/175a9849602a75a572500f5bb49672ec.gif"  />
 </div>
 
 ###
 
-<h4 align="left">🎯 Goals</h4>
+<h3 align="left">🎯 Goals</h3>
 
 ###
 
@@ -70,7 +70,7 @@
 
 ###
 
-<h4 align="left">📊 GitHub Stats</h4>
+<h3 align="left">📊 GitHub Stats</h3>
 
 ###
 
@@ -81,7 +81,7 @@
 
 ###
 
-<h4 align="left">📫 Contact</h4>
+<h3 align="left">📫 Contact</h3>
 
 ###
 
@@ -89,7 +89,7 @@
   <a href="https://www.linkedin.com/in/breno-roque-dev/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="brenoroque.dev@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&to=brenoroque.dev@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
